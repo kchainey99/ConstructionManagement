@@ -1,0 +1,13 @@
+15
+Cementer
+2
+Carpenter
+5
+Craner
+1
+Backhoe
+2
+Electrician
+3
+Plumber
+2
